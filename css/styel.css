@@ -60,6 +60,12 @@ h6 {}
     padding: 0 10px;
     color: #fff;
 }
+@media (min-width:990px) {
+    .menu-button{
+        display:none;
+    }
+}
+
 
 .list li::after {
     content: '';
