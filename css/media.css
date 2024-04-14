@@ -1049,7 +1049,6 @@ flex-direction: column;
     } 
     .list-end{
         width: 100%;
-        gap: 3%;
         align-items: flex-start;
 
     }
